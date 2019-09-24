@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 欢迎访问南京大学计算机科学与技术系课程小组主页
+Welcome to the homepage of the Department of Computer Science and Technology, Nanjing University！
 
-You can use the [editor on GitHub](https://github.com/SRE-Teamwork/SRE-smartIDE/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+[toc]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 本小组是南京大学计算机系软件需求工程课程实验小组
+This group is the experimental group of the software requirements engineering course of the Department of Computer Science of Nanjing University.
 
-### Markdown
+# 小组简介
+小组由四位成员构成，分别是171860541郭睿杰，171860539蔡恒，161220073李祐德，175220002叶宙果
+The group consists of four members, namely 171860541 Guo Ruijie, 171860539 Cai Heng, 161220073 Li Youde, 175220002 Ye Zhouguo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 小组目标
+同心协力，完成实验，从实验中学习软件需求工程的经验。
+We will work together to complete the experiment, and learn from the experience of software requirements engineering from experiments.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SRE-Teamwork/SRE-smartIDE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 小组承诺
+杜绝一切抄袭行为
+We will put an end to all plagiarism.
